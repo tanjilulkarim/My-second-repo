@@ -1,6 +1,12 @@
+body{
+    background-image: url(city.jpg);
+}
 p{
-    color: red;
+    color: rgb(197, 20, 20);
+   
+    
 }
 h1{
-    color: royalblue;
+    color: rgb(223, 231, 253);
+    text-align: center;
 }
